@@ -10,7 +10,7 @@ Please check out this link for more detailed information: https://devpost.com/so
 - using video and timer features
 
 ## Repository Information/Installation and Testing: 
-You will need the MTI app inventor app on android or your computer to test this. The source files cannot be read through github.
+You will need the MIT app inventor app on android or your computer to test this. The source files cannot be read through github.
 
 ## Contributors:
 - Hubert Zhao
