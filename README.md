@@ -9,10 +9,7 @@ Please check out this link for more detailed information: https://devpost.com/so
 - sending data back and forth between accounts
 - using video and timer features
 
-## Repository Information:
-The source files are in the SFML Tutorial folder (not the .xcodeproj one). The images for the game are in the resources folder.
-
-## Installation and Testing: 
+## Repository Information/Installation and Testing: 
 You will need the MTI app inventor app on android or your computer to test this. The source files cannot be read through github.
 
 ## Contributors:
